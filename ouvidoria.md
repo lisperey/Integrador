@@ -11,12 +11,12 @@ Para acessar a ouvidoria e fazer ou acompanhar a sua solicitação basta você a
 ### GERAR CHAMADO
  
 Para gerar uma solicitação acesse [Ouvidoria](https://sistemas.iesp.edu.br/ouvidoria)
-e clique em "Gerar Chamado", o site vai te redirecionar para um formulário, sendo assim, é só preencher
-com as informações solicitadas.
+e clique em "Gerar Chamado" que o site vai te redirecionar para um formulário, sendo assim, é só preencher
+com as informações solicitadas e ir em "Adicionar" para gerar o seu chamado.
  
 >O protocolo do chamado e o link para acompanhar o chamado vai ser enviado para o e-mail que foi informado no formulário.
  
 ### ACOMPANHAR CHAMADO
  
 Para acompanhar uma solicitação acesse [Ouvidoria](https://sistemas.iesp.edu.br/ouvidoria), informe o protocolo
-do chamado e clique em "Acompanhar Chamado".
+do chamado e clique em "Acompanhar Chamado" para que as informações do chamado sejam aprsentadas.
