@@ -19,4 +19,4 @@ com as informações solicitadas e ir em "Adicionar" para gerar o seu chamado.
 ### ACOMPANHAR CHAMADO
  
 Para acompanhar uma solicitação acesse [Ouvidoria](https://sistemas.iesp.edu.br/ouvidoria), informe o protocolo
-do chamado e clique em "Acompanhar Chamado" para que as informações do chamado sejam aprsentadas.
+do chamado e clique em "Acompanhar Chamado" para que as informações do chamado sejam apresentadas.
